@@ -1,0 +1,16 @@
+{
+    "stockData": {
+        "change": -5.06,
+        "changePercent": -0.02711,
+        "close": 181.58,
+        "high": 187.47,
+        "latestPrice": 181.58,
+        "latestTime": "February 21, 2025",
+        "latestVolume": 19520782,
+        "low": 181.13,
+        "open": 187.29,
+        "previousClose": 186.64,
+        "symbol": "GOOG",
+        "volume": 19520782
+    }
+}
